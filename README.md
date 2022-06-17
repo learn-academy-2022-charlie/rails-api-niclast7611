@@ -8,9 +8,9 @@ Story: As the consumer of the API I can see all the animals in the database.
 Hint: Make a few animals using Rails Console
 [***DONE***]
 Story: As the consumer of the API I can update an animal in the database.
-
+[***DONE***]
 Story: As the consumer of the API I can destroy an animal in the database.
-[***In Progress***]
+[***DONE***]
 Story: As the consumer of the API I can create a new animal in the database.
 [***DONE***]
 Story: As the consumer of the API I can create a sighting of an animal with date (use the datetime datatype), a latitude, and a longitude.
