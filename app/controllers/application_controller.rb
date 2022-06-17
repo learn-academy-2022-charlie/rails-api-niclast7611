@@ -1,7 +1,4 @@
 class ApplicationController < ActionController::Base
-    protect_from_forgery except: :sample
+  skip_before_action :verify_authenticity_token
 
-    def sample
-  　　 render json: animal
-    end
 end
